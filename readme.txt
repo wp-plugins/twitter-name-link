@@ -3,7 +3,7 @@ Contributors: norcross
 Donate link: http://andrewnorcross.com/donate
 Tags: twitter, tinymce, visual editor button
 Requires at least: 2.8
-Tested up to: 3.1
+Tested up to: 3.1.2
 Stable tag: 1.0
 
 Adds a button to the TinyMCE to wrap a twitter username in a shortcode that'll build out the link automatically. 
